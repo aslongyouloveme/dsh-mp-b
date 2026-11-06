@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="720" viewBox="0 0 960 720" role="img" aria-labelledby="title desc">
+  <title id="title">老鹰骑自行车 · Eagle on a bicycle</title>
+  <desc id="desc">一只白头、棕色羽毛的老鹰握着车把，黄色爪子踩着踏板，骑着一辆青绿色自行车穿过晴朗的山间小路。</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#eaf7fb"/>
+      <stop offset="1" stop-color="#fff8e7"/>
+    </linearGradient>
+    <linearGradient id="wing" x2="1" y2="1">
+      <stop stop-color="#956347"/>
+      <stop offset="1" stop-color="#523b32"/>
+    </linearGradient>
+  </defs>
+  <rect width="960" height="720" rx="40" fill="url(#sky)"/>
+  <circle cx="756" cy="150" r="59" fill="#ffd16b"/>
+  <g fill="#fff" opacity=".85">
+    <path d="M105 180c-9-24 14-45 36-35 6-34 55-37 68-5 28-7 48 15 39 40Z"/>
+    <path d="M580 105c-5-17 10-31 27-25 7-24 40-25 49-3 20-4 35 12 28 28Z"/>
+  </g>
+  <path d="M0 486 160 345 302 478 450 355 618 488 787 352 960 480V680H0Z" fill="#d1e7d9"/>
+  <path d="m113 386 47-41 44 41-35-11-12 15-15-13Z M405 392l45-37 49 39-37-13-14 14-13-13Z M743 389l44-37 49 40-36-14-14 13-13-12Z" fill="#f5fbf5"/>
+  <path d="M0 531c175-52 295-16 459 11s326-67 501-22v200H0Z" fill="#b6d8b2"/>
+  <path d="M0 597c270-38 656-39 960 1v122H0Z" fill="#f0dfbb"/>
+  <ellipse cx="482" cy="614" rx="313" ry="20" fill="#c6ad87" opacity=".35"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Wheels, hubs and spokes. -->
+    <g stroke="#607780" stroke-width="3" opacity=".7">
+      <path d="m282 523-88 0m44-76v152m-66-120 132 88m-132 0 132-88m-22-31-88 151m0-151 88 151"/>
+      <path d="m783 523-176 0m88-88v176m-76-132 152 88m-152 0 152-88m-32-32-88 152m0-152 88 152"/>
+    </g>
+    <g stroke="#283e48" stroke-width="14" fill="none">
+      <circle cx="238" cy="523" r="91"/>
+      <circle cx="695" cy="523" r="91"/>
+    </g>
+    <g stroke="#fcf8eb" stroke-width="3">
+      <circle cx="238" cy="523" r="81"/>
+      <circle cx="695" cy="523" r="81"/>
+    </g>
+    <!-- Diamond frame and front fork. -->
+    <path d="m238 523 148-157 89 157H238l165-111h242L475 523m170-111 50 111m-50-111-19-53" stroke="#157f83" stroke-width="14"/>
+    <path d="m386 366-17-37m-24-1h67" stroke="#2b4149" stroke-width="10"/>
+    <path d="M334 323q36-14 81-2l-4 13h-70Z" fill="#523b32" stroke="#523b32" stroke-width="6"/>
+    <path d="m626 359-11-39h45q26 0 20 24" stroke="#2b4149" stroke-width="10"/>
+    <path d="M652 320h14" stroke="#d69b55" stroke-width="13"/>
+    <circle cx="475" cy="523" r="19" fill="#e6f0de" stroke="#2b4149" stroke-width="6"/>
+    <path d="m475 523 42 24m-56-34-33-23" stroke="#2b4149" stroke-width="7"/>
+    <path d="M500 550h37m-126-63h32" stroke="#2b4149" stroke-width="8"/>
+    <g stroke="#2b4149" stroke-width="5">
+      <circle cx="238" cy="523" r="6" fill="#ffcf69"/>
+      <circle cx="695" cy="523" r="6" fill="#ffcf69"/>
+    </g>
+  </g>
+  <!-- Tail streams behind the rider; body overlaps the saddle. -->
+  <path d="m390 299-109 26 59 12-45 27 106-12 29-33Z" fill="#523b32" stroke="#392f2b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m297 322 29 7-22 14 34-6-25 16 46-7-11-31Z" fill="#fff7e8"/>
+  <!-- Far leg and talon on the raised pedal. -->
+  <path d="m469 341 39 63-56 64" fill="none" stroke="#c48a3e" stroke-width="21" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m453 463-17 16m17-16 3 20m-3-20-31 10" fill="none" stroke="#f2b84f" stroke-width="9" stroke-linecap="round"/>
+  <path d="M438 192c-56 18-92 79-68 126 14 29 52 45 94 45 43 0 77-29 82-75l-19-79Z" fill="#78513c" stroke="#392f2b" stroke-width="5"/>
+  <!-- White neck ruff and hooked golden beak identify the eagle. -->
+  <path d="M459 142c26-35 79-35 105-9 22 22 23 55 4 77l-22 28-17-15-7 20-19-15-17 16-8-23-25 8 5-24c-21-12-25-42 1-63Z" fill="#fffaf0" stroke="#392f2b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M563 160c22 0 47 11 53 29l-25-2q-1 24-21 28l5-26-18-7Z" fill="#f6ba42" stroke="#392f2b" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m529 151 24 5" fill="none" stroke="#392f2b" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="544" cy="166" r="6" fill="#263c45"/>
+  <circle cx="546" cy="164" r="1.8" fill="#fff"/>
+  <path d="m476 151 9-12m-16 31 8-7" stroke="#d5dfdc" stroke-width="4" stroke-linecap="round"/>
+  <!-- Forward wing rests on the handlebars. -->
+  <path d="M455 238c31-11 55 12 71 34l40 30 66 11-4 20-80-1c-48-11-103-34-109-62-3-13 3-26 16-32Z" fill="url(#wing)" stroke="#392f2b" stroke-width="5" stroke-linejoin="round"/>
+  <g fill="none" stroke="#b58359" stroke-width="5" stroke-linecap="round">
+    <path d="m463 265 46 40 42 14m-87-35 34 29m-43-9 19 15"/>
+  </g>
+  <path d="m624 314 20 0 10 10m-24-6 11 13m-20-11 10 14" fill="none" stroke="#f2b84f" stroke-width="8" stroke-linecap="round"/>
+  <!-- Near leg bends naturally down to the forward pedal. -->
+  <path d="m430 352 48 64 28 116" fill="none" stroke="#f2b84f" stroke-width="23" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m501 532 25 8m-22-8 9 14m-12-12-7 12" fill="none" stroke="#f2b84f" stroke-width="9" stroke-linecap="round"/>
+  <path d="m528 540 7 4m-21 2 4 4m-25-3-3 3" stroke="#392f2b" stroke-width="4" stroke-linecap="round"/>
+  <g fill="none" stroke="#87afb2" stroke-width="5" stroke-linecap="round">
+    <path d="M210 259h79m-109 22h63m-29 24h50"/>
+  </g>
+  <g stroke="#6e9a70" stroke-width="4" stroke-linecap="round">
+    <path d="m97 575-7-17m7 17 8-22m746 28-6-18m6 18 11-16"/>
+  </g>
+</svg>
